@@ -1,0 +1,17 @@
+<svg width="480" height="480" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata7">image/svg+xml</metadata>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="482" width="482" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="layer1">
+   <path stroke="#000000" fill="none" stroke-width="30.293137" stroke-linecap="round" stroke-miterlimit="4" filter="url(#filter3898)" id="path2984" d="m462.831532,246.545309c-2.658284,122.452972 -104.578289,219.576504 -227.644701,216.931458c-123.066412,-2.645032 -220.676482,-104.057017 -218.018198,-226.50999c2.658297,-122.452972 104.578302,-219.57649 227.644714,-216.931458c121.80585,2.617947 218.928344,102.069112 218.064564,223.293043"/>
+   <rect stroke="#000000" fill="none" stroke-width="31" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" filter="url(#filter3770)" id="rect3760" width="368.434946" height="1.912957" x="57.047269" y="329.552668"/>
+   <path stroke="#b2b2b2" fill="none" stroke-width="30.293137" stroke-linecap="round" stroke-miterlimit="4" d="m462.832004,244.938018c-2.658284,122.452972 -104.578289,219.576504 -227.644701,216.931458c-123.066412,-2.645032 -220.676482,-104.057017 -218.018198,-226.50999c2.658297,-122.452972 104.578302,-219.57649 227.644714,-216.931458c121.80585,2.617947 218.928344,102.069112 218.064564,223.293043" id="path2985"/>
+   <rect stroke="#b2b2b2" fill="none" stroke-width="31" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" y="329.552668" x="57.047269" height="1.912957" width="368.434946" id="rect2990"/>
+  </g>
+ </g>
+</svg>
