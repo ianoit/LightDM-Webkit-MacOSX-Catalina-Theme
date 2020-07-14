@@ -4,7 +4,7 @@ LightDM Webkit MacOSX Catalina Theme
 Saya membuat ini berdasarkan [https://github.com/Wattos/LightDM-Webkit-MacOSX-Theme](https://github.com/Wattos/LightDM-Webkit-MacOSX-Theme), tetapi karena saya masih kurang sreg akhirnya sedikit saya ubah
 
 ## Screenshoot
-![Screenshoot]()
+![Screenshoot](https://raw.githubusercontent.com/ianoit/LightDM-Webkit-MacOSX-Catalina-Theme/master/assets/img/Screenshoot.png)
 
 ## Installasi
 
@@ -23,7 +23,7 @@ Saya membuat ini berdasarkan [https://github.com/Wattos/LightDM-Webkit-MacOSX-Th
 ## Mengubah Gambar Background
 1. Siapkan gambar yang ingin digunakan
 2. Copy gambar ke folder assets/img
-3. Buka file style.css di folder /assets/img
+3. Buka file style.css di folder /assets/css
 4. Edit pada bagian ```background-image: url("../img/bg.jpg");``` ubah bg.jpg dengan nama gambar kalian
 
 Catatan:
