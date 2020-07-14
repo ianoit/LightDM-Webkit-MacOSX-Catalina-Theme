@@ -27,7 +27,7 @@ function show_prompt(text) {
         }
 
         setVisible(password_container, true);
-        password_entry.placeholder= text.replace(":", "");
+        password_entry.placeholder= "Enter Password";
     }
     password_entry.value= "";
     password_entry.focus();
@@ -98,9 +98,13 @@ function user_clicked(event) {
         selected_user= null;
         lightdm.cancel_authentication();
         show_users();
+        document.getElementById("action").style.display = "inline-block";
+        document.getElementById("cancel").style.display = "none";
     } else {
         selected_user= event.currentTarget.id;
         start_authentication(event.currentTarget.id);
+        document.getElementById("action").style.display = "none";
+        document.getElementById("cancel").style.display = "inline-block";
     }
     show_message("");
     event.stopPropagation();

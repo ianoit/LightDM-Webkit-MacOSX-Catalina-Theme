@@ -26,6 +26,6 @@ Saya membuat ini berdasarkan [https://github.com/Wattos/LightDM-Webkit-MacOSX-Th
 3. Buka file style.css di folder /assets/css
 4. Edit pada bagian ```background-image: url("../img/bg.jpg");``` ubah bg.jpg dengan nama gambar kalian
 
-Catatan:
-Wallpaper : 
+Catatan:  
+Wallpaper :  
 [https://wallpapershome.com/download-wallpapers/macos-catalina-day-mountains-wwdc-2019-5k-21590.html](https://wallpapershome.com/download-wallpapers/macos-catalina-day-mountains-wwdc-2019-5k-21590.html)

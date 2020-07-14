@@ -163,5 +163,26 @@ a {
   color: #FFF;
   font-weight: 300;
 }
+.footer .cancel {
+  display: none;
+  width: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin: 0 auto;
+}
+.footer .cancel .cancel_image_wrapper {
+  border-radius: 100%;
+}
+.footer .cancel .cancel_image_wrapper .cancel_image {
+  height: 40px;
+  margin-bottom: 5px;
+  background: rgba(49, 48, 56, 0.9);
+  border-radius: 100%;
+  padding: 3px;
+}
+.footer .cancel .cancel_label {
+  color: #FFF;
+  font-weight: 300;
+}
 
 /*# sourceMappingURL=style.css.map */
