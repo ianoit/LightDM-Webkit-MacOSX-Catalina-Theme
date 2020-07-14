@@ -27,7 +27,6 @@ function show_prompt(text) {
         }
 
         setVisible(password_container, true);
-        password_entry.placeholder= "Enter Password";
     }
     password_entry.value= "";
     password_entry.focus();
