@@ -92,8 +92,8 @@ a {
   opacity: 0.5;
 }
 .login_content .login_container .user .user_image_wrapper {
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
   border-radius: 60px;
   box-shadow: 0 0 1px 1px #222, inset 0 0 2px 1px #222;
   border: 2px solid #EEE;
@@ -105,8 +105,8 @@ a {
   box-shadow: 0 0 1px 1px #222, inset 0 0 2px 1px #222, 0 0 5px 2px #7DBEF1;
 }
 .login_content .login_container .user .user_image_wrapper .user_image {
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
   border-radius: 60px;
 }
 .login_content .login_container .user .user_name {
@@ -132,16 +132,15 @@ a {
   color: #EFEFEF;
 }
 #message #message_content.error {
-  color: #F55;
+  color: #dc3545;
 }
 
 .footer {
   text-align: center;
-  height: 100px;
+  height: 140px;
   display: table-row;
   width: 100%;
   color: #B2B2B2;
-  margin-bottom: 300px;
 }
 .footer .action {
   display: inline-block;
